@@ -18,3 +18,7 @@ import matplotlib.ploty as plt
 import numpy as np
 import wget
 ```
+
+## References
+
+- [Carrington Event - Space apps challenge](https://2022.spaceappschallenge.org/challenges/2022-challenges/carrington-event/details)
